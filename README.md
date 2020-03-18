@@ -1,1 +1,0 @@
-# manager-books-ajax
